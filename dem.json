@@ -53,7 +53,7 @@
     {
       "protocol": "https",
       "path": "unpkg.com/cac",
-      "version": "v6.5.9",
+      "version": "v6.6.1",
       "files": [
         "/mod.js"
       ]
